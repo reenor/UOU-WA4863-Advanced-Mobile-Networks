@@ -2,6 +2,6 @@
 ## Professor in charge
 - Prof. Yoon, Seokhoon (윤석훈)
 ## Course time
-- Thru, 10am (2,3,4)
+- Thu, 10am (2,3,4)
 ## Room number
 - 7-317
