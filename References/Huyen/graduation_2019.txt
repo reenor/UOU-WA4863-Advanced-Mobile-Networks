@@ -1,0 +1,37 @@
+
+2019
+1. example of network topology in case of terminal hidden. In 802.11, descirbe at lease two methods to avoid collision?
+2. Describe OLSR (w.r.t link state flood)
+3. 
+T-MAC advantage
+S-MAC briefly explain
+Why we need multi-hop in WSN even when directly transmission is possible?
+4. what thing must consider when we design one DTN routing. What is the difference between DTN and ad-hoc network, and transditional routing. 
+
+
+
+
+2018
+1.a S-MAC briefly explain
+1.b T-MAC advantage
+1.c Why network use multihop
+
+2. Which thing consider when we create Ad-hoc routing algorithm
+( For example, difference Ad-hoc routing and Tradition routing )
+
+3. briefly AODV works, write advantage/disadvantage over DSR
+
+
+Qualification exam 2016
+
+Department of Computer Engineering
+1. Advantage and Disadvantage of DSR
+2. LAR: what does this algorithm try to improve over other algorithms? and how to do?
+3. Briefly describe how DSR works? and draw an example?
+
+Department of Electrical Engineering
+1. T-MAC advantage
+2. S-MAC briefly explain
+3. Why we need multi-hop in WSN even when directly transmission is possible? (save energy...)
+4. advantage/disadvantage of AODV
+
